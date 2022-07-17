@@ -1,0 +1,6 @@
+- Comandos:
+  - git status (status do repositório)    
+  - git add *  (adicionar e preparar as modificações para subir)
+  - git commit -m (subir as mudanças do repositório)
+  - git push (subir para o github as modificações do repositório)
+  - git pull (uso em caso de correção de conflito de modificações)
